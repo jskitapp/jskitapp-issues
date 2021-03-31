@@ -18,7 +18,7 @@ JSKit APP 是商业（非开源）软件，但在 beta 阶段是免费的。这�
 ### 联系我们
 
 - QQ 群组： 957177908
-- Email：jskitapp@protonmail.com
+- Email：jskit@jskitapp.com
 
 
 
